@@ -27,9 +27,9 @@ print(requests.get(url).json()) # this sends the message
 
 # def send_to_telegram(message):
 
-#     apiToken = '6065004786:AAErNReUq76J2G7_mUGkO62rWNqG2fVZW44'
-#     # chatID = '6065004786'
-#     chatID = '589156835'
+#     apiToken = 'TOKEN'
+#     # chatID = 'chat_id'
+#     chatID = 'chat_id'
 #     apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
 
 #     try:
