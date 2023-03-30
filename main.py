@@ -9,7 +9,7 @@ from cred import token_id
 # REMINDER!
 # Bot can't talk to bot
 # Therefore you have to use non-bot ID
-# use userinfobot in your telegram app to obtain your ID (non-bot)
+# use userinfobot in your telegram app to obtain your user ID (non-bot)
 # If you insist on using the bot ID, it will produce error code 403
 
 # You might want to fill in your API TOKEN, and chat_id (user ID)
